@@ -1,0 +1,35 @@
+# http://general.legal/llms.txt
+
+# General Legal | AI Native Law Firm for Startups & SMBs
+
+> Work with the General Legal, an AI-native law firm trusted by clients (95% satisfaction). Fast contract review, clear pricing, and experienced attorneys.
+
+## General Pages
+- [General Legal | AI Native Law Firm for Startups & SMBs](https://general.legal/): Work with the General Legal, an AI-native law firm trusted by clients (95% satisfaction). Fast contract review, clear pricing, and experienced attorneys.
+- [Privacy Policy | General Legal](https://general.legal/misc/privacy-policy): Learn how General Legal collects, uses, and protects your personal data, including cookies, tracking technologies, and your privacy choices.
+- [Legal & AI Insights for Startups | General Legal Blog](https://general.legal/resources/blog): Read the latest from General Legal on AI, contract review, and startup law, with practical insights from attorneys working on real deals.
+- [Careers | General Legal](https://general.legal/company/careers): Explore careers at General Legal and join an AI-native law firm hiring experienced attorneys to deliver faster, high-quality contract work for clients.
+- [Referral Partners | General Legal](https://general.legal/resources/referral-partners): Discover vetted AI-native and tech-enabled companies recommended by General Legal to help startups move faster and operate more efficiently.
+- [Terms of Service | General Legal](https://general.legal/misc/terms-of-service): Read General Legal’s Terms of Service, covering site use, accounts, user responsibilities, and dispute terms for using our platform and services.
+- [Our Attorneys | General Legal](https://general.legal/company/attorneys): Meet the General Legal team of experienced attorneys from established law firms, focused on delivering practical, high-quality contract work for clients.
+- [Contract Review & Drafting Pricing | General Legal](https://general.legal/company/pricing): Simple, transparent pricing for contract review, redlining, negotiation, and drafting. Flat fees from $250. No hourly billing or hidden costs.
+- [About the Firm | General Legal](https://general.legal/company/about): Learn more about General Legal, its founders and the story behind an AI-native law firm built for faster contracts, clear pricing, and better outcomes.
+- [Contact Us | General Legal](https://general.legal/company/contact): Contact General Legal for help with contracts and legal questions. Reach us by email and connect with our team during business hours.
+- [Template Library | General Legal](https://general.legal/resources/library): Browse legal templates for startups, including NDAs, privacy policies, cookie notices, and HIPAA agreements, built for real business use.
+
+## Blog
+- [We Just Got Hired by an AI Agent | General Legal](https://general.legal/blog/we-just-got-hired-by-an-ai-agent): General Legal was hired by an AI agent acting for a human client, marking a new step in how legal services may be found and engaged.
+- [California's AI Disclosure Laws: What Startups Need to Know](https://general.legal/blog/californias-ai-disclosure-laws-what-startups-need-to-know): Discover what startups need to know about California’s AI disclosure rules, from training data to automated decisions and user requirements.
+- [We build for clients, not lawyers.  | General Legal](https://general.legal/blog/we-build-for-clients): Why General Legal built a law firm, not software. A look at new AI tools, rapid updates, and how they make legal services faster and cheaper for clients.
+- [Your Lawyer is Worse Than You Think | General Legal](https://general.legal/blog/your-lawyer-is-worse-than-you-think): A look at common mistakes lawyers make in contracts and a simple tool that flags errors like typos and risky terms before they become costly problems.
+- [Can Claude Work Replace Lawyers? A Real Contract Review Test](https://general.legal/blog/claude-work-is-an-awesome-tool-for-lawyers-but-it-cannot-replace-lawyers): Discover what Claude Work gets right and wrong in contract review, and why context, priorities, and judgment still require a human lawyer.
+- [Contract Review & the AI-Native Model | General Legal](https://general.legal/blog/contract-review-the-ai-native-model): See how AI and experienced attorneys work together to review contracts in hours, combining fast redlines with real legal judgment and deal context.
+
+## Templates
+- [One-Way Non-Disclosure Agreement (NDA) | General Legal](https://general.legal/library/one-way-non-disclosure-agreement-nda): Download a one way NDA template to protect your confidential information, with clear limits on use, access, disclosure, and handling of sensitive data.
+- [Mutual Non-Disclosure Agreement (NDA) | General Legal](https://general.legal/library/mutual-non-disclosure-agreement-nda): Download a mutual NDA template to protect shared confidential information, with clear rules on use, disclosure, access, and return of materials.
+- [Business Associate Agreement (BAA) | General Legal](https://general.legal/library/business-associate-agreement-baa): Download a Business Associate Agreement template for HIPAA compliance, covering PHI use, safeguards, breach notice, and subcontractor requirements.
+- [Terms of Use Template Explained + Free DOCX | General Legal](https://general.legal/library/terms-of-use): Download a Terms of Use template that sets rules for site access, user behavior, liability limits, and dispute resolution for your website or app.
+- [Privacy Policy (GDPR Enhanced) | General Legal](https://general.legal/library/privacy-policy-gdpr-enhanced): Download a GDPR-enhanced privacy policy template covering data use, lawful bases, user rights, and cross-border transfers for US and European users.
+- [Privacy Policy (U.S. Only) | General Legal](https://general.legal/library/privacy-policy-u-s-only): Download a US privacy policy template covering data collection, cookies, sharing, and user rights under laws like CCPA, CPRA, and other state regulations.
+- [Cookie Notice Template Explained + Free DOCX | General Legal](https://general.legal/library/cookie-notice): Download a Cookie Notice template that explains cookie types, tracking technologies, and user choices to help meet privacy and consent requirements.

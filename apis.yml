@@ -1,7 +1,19 @@
 aid: general-legal
 name: General Legal
-description: General Legal is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  General Legal is an AI-native law firm for high-growth startups and SMBs,
+  offering flat-fee commercial, corporate, and employment legal work delivered
+  by U.S.-barred attorneys augmented with proprietary AI workflows. The firm
+  focuses on contract review, redlining, negotiation, and drafting with
+  transparent flat pricing (from $250) and fast turnaround (median under three
+  hours), positioning itself as "outside counsel that scales like software."
+  Practice areas include technology transactions, employment, data privacy,
+  financial regulatory, blockchain/cryptocurrency, and emerging companies / VC.
+  Founded in 2026 by Ryan Walker (ex-Casetext CTO), J.P. Mohler, and Javed
+  Qadruddin, the company is a Y Combinator (W26) portfolio company that raised
+  $11.5M across pre-seed and seed rounds. This profile was surfaced as a
+  Y Combinator portfolio lead and enriched from public sources; General Legal
+  is a legal-services company and does not currently publish a developer API.
 url: https://raw.githubusercontent.com/api-evangelist/general-legal/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +21,69 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/69d3ac38e8e442c9fce520b4/6a073ecb708e3d8ffc639f4b_49a76c6986df74c51aa83f6f5a579b30_og-image.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Legal
+- Law Firm
+- Legal Tech
+- Contracts
+- Contract Review
+- Compliance
+- Artificial Intelligence
+- Startups
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/general-legal-domain-security.yml
+- type: Website
+  url: https://general.legal
+- type: About
+  url: https://general.legal/company/about
+- type: Pricing
+  url: https://general.legal/company/pricing
+- type: Blog
+  url: https://general.legal/resources/blog
+- type: Newsroom
+  url: https://general.legal/newsroom
+- type: Support
+  url: https://general.legal/company/contact
+- type: Careers
+  url: https://general.legal/company/careers
+- type: SignUp
+  url: https://portal.general.legal/signup
+- type: Login
+  url: https://portal.general.legal/
+- type: TermsOfService
+  url: https://general.legal/misc/terms-of-service
+- type: PrivacyPolicy
+  url: https://general.legal/misc/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/general-legal
+- type: LLMsTxt
+  url: llms/general-legal-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

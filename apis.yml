@@ -33,7 +33,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://cdn.prod.website-files.com/69d3ac38e8e442c9fce520b4/6a073ecb708e3d8ffc639f4b_49a76c6986df74c51aa83f6f5a579b30_og-image.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:

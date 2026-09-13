@@ -1,0 +1,31 @@
+generated: '2026-09-11'
+method: probed
+source: https://mcp.general.legal/mcp
+status: published
+server:
+  name: general-legal
+  transport: http
+  url: https://mcp.general.legal/mcp
+deployment:
+  mode: remote
+  endpoint: https://mcp.general.legal/mcp
+  verified: probed
+  probe: live
+  checked: '2026-09-11'
+  source: docs-check 2026-09-12 (endpoint found in the provider's own documentation, then probed)
+tools_count: 6
+tools:
+- name: get_signup_terms
+  description: ''
+- name: sign_up
+  description: ''
+- name: complete_signup
+  description: ''
+- name: resend_signup_code
+  description: ''
+- name: request_api_key_recovery
+  description: ''
+- name: complete_api_key_recovery
+  description: ''
+tools_source: live tools/list via initialize handshake, 2026-09-12 (signals/audit_mcp_authorship.py --probe)
+authorship: provider

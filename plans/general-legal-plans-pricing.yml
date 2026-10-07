@@ -1,0 +1,103 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://general.legal/pricing
+sources:
+- https://general.legal/pricing
+- https://general.legal/company/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: usage-other
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Flat-fee legal services schedule (law firm), not an API. Many additional per-matter line items listed
+  at $250/$500/$1,000/$1,500/$2,500; a representative subset captured.
+plan_count: 13
+currency: USD
+plans:
+- name: Simple Contract Review
+  price_text: $250 / contract
+  price: 250
+  currency: USD
+  period: per-use
+  unit: contract
+  included_quota: Contracts 3 pages or fewer; NDAs, simple SOWs, LOIs, and similar; Initial review and
+    redlines
+- name: Standard Contract Review
+  price_text: $500 / contract
+  price: 500
+  currency: USD
+  period: per-use
+  unit: contract
+  included_quota: Contracts 3–25 pages; initial review and redlines; one round of internal revisions;
+    Negotiation Guide
+  overage: Additional negotiation (unlimited turns, call with counterparty) +$500
+- name: Full Negotiation
+  price_text: $1,000 / contract
+  price: 1000
+  currency: USD
+  period: per-use
+  unit: contract
+  included_quota: Everything in Standard Contract Review, plus unlimited negotiation turns, counterparty
+    call support
+- name: Drafting
+  price_text: $2,000 / document
+  price: 2000
+  currency: USD
+  period: per-use
+  unit: document
+  included_quota: Terms of Service, Privacy Policy, MSA, DPA, or BAA
+- name: Long (25+ pages) or non-standard contract
+  price_text: From $1,000
+  price: 1000
+  currency: USD
+  period: per-use
+  unit: contract
+- name: Smaller drafting projects
+  price_text: $1,000–$1,500
+  currency: USD
+  period: per-use
+  unit: project
+- name: Playbook development
+  price_text: $1,500
+  price: 1500
+  currency: USD
+  period: per-use
+  unit: playbook
+- name: GC as a service
+  price_text: Custom
+  period: none
+  included_quota: Recurring legal support across contracts, employment, and business questions
+- name: Employee handbook drafting + review
+  price_text: $2,500
+  price: 2500
+  currency: USD
+  period: per-use
+  unit: matter
+- name: Executive separation – counseling, agreement & negotiation
+  price_text: $3,500
+  price: 3500
+  currency: USD
+  period: per-use
+  unit: matter
+- name: Basic research memo
+  price_text: $1,000
+  price: 1000
+  currency: USD
+  period: per-use
+  unit: memo
+- name: Legal advisory
+  price_text: $100-$500
+  currency: USD
+  period: per-use
+- name: Initial consultation
+  price_text: $250-$500
+  currency: USD
+  period: per-use
+  included_quota: Can be credited against future work

@@ -64,6 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-General Legal is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+General Legal is an AI-native law firm for high-growth startups and SMBs, offering flat-fee commercial, corporate, and employment legal work delivered by U.S.-barred attorneys augmented with proprietary AI workflows. The firm focuses on contract review, redlining, negotiation, and drafting with transparent flat pricing (from $250) and fast turnaround (median under three hours), positioning itself as "outside counsel that scales like software." Practice areas include technology transactions, employment, data privacy, financial regulatory, blockchain/cryptocurrency, and emerging companies / VC. Founded in 2026 by Ryan Walker (ex-Casetext CTO), J.P. Mohler, and Javed Qadruddin, the company is a Y Combinator (W26) portfolio company that raised $11.5M across pre-seed and seed rounds. This profile was surfaced as a Y Combinator portfolio lead and enriched from public sources; General Legal is a legal-services company and does not currently publish a developer API.
 
-Backed by: y-combinator
+**Areas:** Company · Legal · Law Firms · Legal Tech · Contracts · Contract Review · Compliance · Artificial Intelligence · Startups · Y Combinator
+
+## General Legal on APIs.io
+
+Everything profiled for General Legal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/general-legal/](https://apis.io/providers/general-legal/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [general-legal](https://apis.io/servers/general-legal/general-legal/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [General Legal Domain Security](https://apis.io/security/general-legal/general-legal-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [General Legal Plans Pricing](https://apis.io/plans/general-legal/general-legal-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://general.legal)
+- [Pricing](https://general.legal/company/pricing)
+- [Sign up](https://portal.general.legal/signup)
+- [Support](https://general.legal/company/contact)
+- [Blog](https://general.legal/resources/blog)
+- [Terms of service](https://general.legal/misc/terms-of-service)
+- [Privacy policy](https://general.legal/misc/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 20.9** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 59.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 69.7 |
+
+**Agent readiness 8.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/general-legal/](https://apis.io/providers/general-legal/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for General Legal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/general-legal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
